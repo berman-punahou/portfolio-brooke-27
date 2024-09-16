@@ -1,0 +1,52 @@
+body {
+    background-color: cadetblue;
+}
+
+.black {
+    color: black;
+}
+
+
+
+#playfair {
+  font-family: "Playfair", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+#playfair-size {
+  font-family: "Playfair", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-size: 70px;
+  font-variation-settings:
+    "wdth" 100;
+
+}
+
+
+.caption {
+  position: absolute;
+  bottom: 37;
+  color: #f1f1f1;
+  background: rgba(0, 0, 0, 0.5);
+  width: 100%;
+  padding: 20px;
+  font-size: 120px;
+}
+
+.left-border {
+    border-left: 1px solid black;
+}
+
+.bottom-border {
+    border-bottom: 1px solid black;
+}
+
+.right-border {
+    border-right: 1px solid black;
+}
